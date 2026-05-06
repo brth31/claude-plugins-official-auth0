@@ -245,7 +245,7 @@
         "path": "plugins/auth0",
         "ref": "main"
       },
-      "homepage": "https://auth0.com/docs"
+      "homepage": "https://auth0.com"
     },
     {
       "name": "autofix-bot",
